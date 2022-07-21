@@ -1,0 +1,65 @@
+.bg-blue{
+    background-color: darkblue !important;
+}
+.navbar{
+    padding: auto !important;
+}
+.navbar-nav .nav-link{
+    color: #fff !important;
+    font-weight: 700;
+    padding: 10px 20px;
+
+}
+.img-mr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-shadow{
+    box-shadow: 0 2px 8px rgb(0 0 0 /10%);
+    border-radius: 5px;
+}
+.category-heading{
+    padding: 10px 10px;
+    border-left: 6px solid #000;
+    background-color: #ddd;
+}
+.post-heading{
+    font-size: 26px;
+    color: #000;
+}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot{
+    color: #fff !important;
+    margin-left: 15px;
+    background-color: #000 !important;
+    border: none !important;
+    outline: none;
+    font-size: 25px !important;
+    height: 30px;
+    width: 40px !important;
+}
+.underline{
+    height: 3px;
+    width: 60px;
+    background-color: blue !important;
+    margin-bottom: 10px;
+}
+.bg-gray{
+    background-color: rgb(218, 216, 216) !important;
+}
+.post-description{
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+.post-code-bg{
+    width: fit-content;
+    min-width: 100%;
+    background-color: black !important;
+    width: 100% !important;
+    overflow-x: scroll !important;
+    position: relative;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
